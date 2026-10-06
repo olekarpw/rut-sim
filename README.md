@@ -1,4 +1,5 @@
 # RUT-SIM: Resonant Universe Theory Simulation Suite (v5.3)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23182328.svg)](https://doi.org/10.5281/zenodo.23184727)
 
 Python simulation tools for verifying the geometric framework of the **Resonant Universe Theory (RUT)**.
 
